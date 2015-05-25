@@ -1,2 +1,2 @@
 # multi-transform
-Meteor package that enables multiple tranformations on collections
+Meteor package that enables multiple transformations on collections
