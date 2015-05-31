@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'maximal:multi-transform',
+  name: 'maximum:multi-transform',
   version: '1.0.0',
   summary: 'Meteor package that enables multiple transformations on collections',
-  git: 'https://github.com/maximalmeteor/multi-transform',
+  git: 'https://github.com/maximummeteor/multi-transform',
   documentation: 'README.md'
 });
 
@@ -20,6 +20,6 @@ Package.onTest(function(api) {
     'tinytest',
     'coffeescript'
   ]);
-  api.use('maximal:multi-transform');
+  api.use('maximum:multi-transform');
   api.addFiles('multi-transform-tests.coffee');
 });

@@ -1,10 +1,10 @@
-# multi-transform [![Build Status](https://travis-ci.org/maximalmeteor/multi-transform.svg)](https://travis-ci.org/maximalmeteor/multi-transform)
+# multi-transform [![Build Status](https://travis-ci.org/maximummeteor/multi-transform.svg)](https://travis-ci.org/maximummeteor/multi-transform)
 Meteor package that enables multiple transformations on collections
 
 ## Installation
 
 ```
-    meteor add maximal:multi-transform
+    meteor add maximum:multi-transform
 ```
 
 ## Usage
